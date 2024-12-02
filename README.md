@@ -10,6 +10,7 @@
 ## Overview of the Project
 
 ### Project: LINEAR REGRESSION ON HOUSING PRICES
+![Screenshot](https://github.com/MOHAN1665/CODTECH-Task1/blob/main/image.png)
 
 ### Objective
 The objective of this project is to build a predictive model for housing prices using the Ames Housing Dataset. The goal is to preprocess the data, handle categorical and numerical features effectively, and evaluate the model's performance using regression metrics.
